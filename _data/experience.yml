@@ -1,9 +1,9 @@
-- role: Publicity Team Member
-  company: IEEE MBCET
-  dates: March 2021 - Present
+- role: "Publicity Team Member"
+  company: "IEEE MBCET"
+  dates: "March 2021 - Present"
   logo: ieee.jpg
   
-  - role: Event Co-Ordinator
-  company: Ingress Hackathon
-  dates: February 2021
+  - role: "Event Co-Ordinator"
+  company: "Ingress Hackathon"
+  dates: "February 2021"
   logo: hack.jpg
