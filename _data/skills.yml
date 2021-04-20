@@ -5,43 +5,29 @@
 - name: Languages
   skills:    
     - skill: Python
-      profeciency: Intermediate
+      profeciency: Beginner
       icon: devicon-python-plain
       
-    - skill: C++
-      profeciency: Beginner
-      icon: devicon-c-plain
-
     - skill: Java
-      profeciency: Intermediate
+      profeciency: Beginner
       icon: devicon-java-plain
 
 # frameworks section
 - name: Frameworks
   skills:
     - skill: Flutter
-      profeciency: Intermediate
+      profeciency: Novice 
       icon: devicon-flutter-plain
-
-    - skill: Django
-      profeciency: Advanced
-      icon: devicon-django-plain
       
-    - skill: Express.js
-      profeciency: Beginner
-      icon: devicon-express-original
 
 # interpersonal section
 - name: Soft Skills
   skills:
     - skill: Communication Skills
-      profeciency: Beginner
+      profeciency: Proficient
       icon: fas fa-satellite-dish
 
     - skill: Presentation Skills
-      profeciency: Intermediate
+      profeciency: Proficient
       icon: fas fa-file-powerpoint
-
-    - skill: Team Player
-      profeciency: Advanced
-      icon: fas fa-users
+      
